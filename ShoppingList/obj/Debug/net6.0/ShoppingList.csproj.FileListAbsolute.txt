@@ -1,0 +1,14 @@
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\bin\Debug\net6.0\ShoppingList.exe
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\bin\Debug\net6.0\ShoppingList.deps.json
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\bin\Debug\net6.0\ShoppingList.runtimeconfig.json
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\bin\Debug\net6.0\ShoppingList.dll
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\bin\Debug\net6.0\ShoppingList.pdb
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\ShoppingList.AssemblyInfo.cs
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\ShoppingList.dll
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\refint\ShoppingList.dll
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\ShoppingList.pdb
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\ShoppingList.genruntimeconfig.cache
+C:\Users\BootCamp\Desktop\School Repos\ShoppingList\ShoppingList\obj\Debug\net6.0\ref\ShoppingList.dll
